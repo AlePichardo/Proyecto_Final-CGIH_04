@@ -1,4 +1,4 @@
-Proyecto Final - Computación Gráfica e Interacción Humano Computadora
+#Proyecto Final - Computación Gráfica e Interacción Humano Computadora
 Feria
 Grupo 04
 Pichardo González Jenny Alejandra
